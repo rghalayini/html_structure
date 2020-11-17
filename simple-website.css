@@ -1,0 +1,51 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #cccccc;
+}
+
+section {
+    margin-left: 20px;
+}
+
+h1 {
+    font-size: 28px;
+}
+
+header p {
+    font-style: italic;
+}
+
+article p {
+    font-size: 24px;
+}
+
+footer {
+    background-color: #444;
+}
+
+footer p {
+    color: #fff;
+    text-align: center;
+}
+
+
+/* --- Navigation bar CSS ---*/
+
+ul {
+    list-style: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background-color: #444;
+    text-align: center;
+    font-size: 24px;
+    line-height: 60px;
+    height: 40 px;
+}
+
+a {
+    color: #ffffff;
+    padding: 20px;
+    text-decoration: none;
+}
